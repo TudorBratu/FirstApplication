@@ -1,0 +1,32 @@
+[
+  {
+    "model": "www.person",
+    "pk" : 1,
+    "fields": {
+      "name": "Sandu Alex Sebastian",
+      "title": "Management si Administratie",
+      "email": "alex.sandu@3dprintscan.ro",
+      "image":"https://scontent.fotp3-2.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/1535687_630052063721784_244702690_n.jpg?oh=10a9d4c8969090d40898c08e3060d692&oe=5920370A"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 2,
+    "fields": {
+      "name": "Samfira Catalin",
+      "title": "Inginer proiectant",
+      "email": "catalin.samfira@3dprintscan.ro",
+      "image":"https://scontent.fotp3-2.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/10269525_870183699712559_3508489698380526029_n.jpg?oh=c5e3b13cd38ba420d80244e3c152140f&oe=59021BF1"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 3,
+    "fields": {
+      "name": "Turlea Bogdan",
+      "title": "Inginer electronist",
+      "email": "bogdan.turlea@3dprintscan.ro",
+      "image":"https://scontent.fotp3-2.fna.fbcdn.net/v/t1.0-1/p160x160/12079614_945444795501372_6965663051036438136_n.jpg?oh=3f3b8a42ba8e769b5148677465294629&oe=59122E95"
+    }
+  }
+]
